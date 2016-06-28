@@ -1,0 +1,31 @@
+#bar{
+	position:absolute;
+	background-color:black;
+}
+
+
+body {
+	background-color:#128dbc;
+}
+#ob{
+	color:red;
+	position:absolute;
+	top:20px;
+	left:50px
+}
+#hb{
+	color:red;
+	position:absolute;
+	top:20px;
+	left:0px
+}
+#tb{
+	color:red;
+	position:absolute;
+	top:20px;
+	left:100px
+}
+p{
+	position:absolute;
+	top:30px
+}
